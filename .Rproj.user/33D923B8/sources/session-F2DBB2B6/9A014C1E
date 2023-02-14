@@ -1,0 +1,26 @@
+{
+    "id": "9A014C1E",
+    "path": "~/Documents/MDS/DSCI_532/test-shiny-app/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "63973299",
+    "contents": "",
+    "dirty": false,
+    "created": 1676341247813.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "43,66",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676341295,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676341295190,
+    "read_only": false,
+    "read_only_alternatives": []
+}
