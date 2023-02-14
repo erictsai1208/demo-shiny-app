@@ -1,0 +1,11 @@
+name: test-shiny-app
+title:
+username:
+account: eric1208
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8305641
+bundleId: 6843190
+url: https://eric1208.shinyapps.io/test-shiny-app/
+when: 1676342184.03669
+lastSyncTime: 1676342184.0367
